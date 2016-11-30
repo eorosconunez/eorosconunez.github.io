@@ -1,0 +1,21 @@
+#title{
+	font-family: 'Kaushan Script', cursive;
+	font-size: 200%;
+	position: relative;
+	height: 55px;
+	width: 100%;
+	background-color: #8bb2af;
+	text-align: center;
+    top: 0px;
+    left: 0px;
+}
+
+#message{
+    font-size: 140%;
+    display: inline-block;
+    color: #636466;
+    padding: 3px;
+    text-align: center;
+    transition: color .18s;
+    font-family: 'Roboto Condensed', sans-serif;
+}
